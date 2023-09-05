@@ -10,7 +10,7 @@ Before you begin, ensure that you have the following components installed:
 
 2. **VirtualBox**: Vagrant relies on a virtualization provider, such as VirtualBox. You can download and install VirtualBox from [the VirtualBox website](https://www.virtualbox.org/).
 
-3. **Ansible**: Ansible is used to automate configurations on your Vagrant machines. Install Ansible on your local machine using your package manager (e.g., `apt`, `yum`, `brew`) or follow the instructions on the [Ansible website](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html).
+3. **Ansible**: Ansible is used to automate configurations on your Vagrant machines. Install Ansible on your local machine using your package manager (e.g., `apt`, `yum`, `brew`) or follow the instructions on the [the Ansible-script](https://github.com/kuldipmori/scripts-for-software-install/blob/main/shell/ansible-install.sh).
 
 
 Here are the steps:
